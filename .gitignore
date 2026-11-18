@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Local reports & data
+report_*.html
+reporte_*.html
+*.json
+!pyproject.toml
+!requirements.txt
+privacy_tracker.json
+
+
+# IDEs & OS
+.DS_Store
+.vscode/
+.idea/
